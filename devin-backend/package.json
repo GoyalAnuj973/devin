@@ -17,6 +17,7 @@
   "author": "Anuj Goyal",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.21.1"
+    "express": "^4.21.1",
+    "mongoose": "^8.7.1"
   }
 }
